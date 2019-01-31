@@ -1,6 +1,7 @@
 # ReLin
 基于PHP的全功能颠覆革命性框架，大道至简、大有若无。  
 本框架钦定组件库：https://packagist.org/  
+详细介绍：[ReLib：2019年全新颠覆革命性的PHP框架](https://www.mokeyjay.com/archives/2370)
 
 ## 相关阅读
 [Lin： 2019 年全新革命性的 php7.2 框架](https://www.v2ex.com/t/531790)  
