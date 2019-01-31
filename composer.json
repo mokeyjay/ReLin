@@ -1,0 +1,12 @@
+{
+    "name": "mokeyjay/ReLin",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mokeyjay",
+            "email": "i@mokeyjay.com"
+        }
+    ],
+    "require": {
+    }
+}
