@@ -6,6 +6,9 @@
 ## 相关阅读
 [Lin： 2019 年全新革命性的 php7.2 框架](https://www.v2ex.com/t/531790)  
 
+[https://github.com/mokeyjay/ReLin/commit/4cc2af1da9a7cb662ea025b4f897c0d0fcd6e8b7](https://github.com/mokeyjay/ReLin/commit/4cc2af1da9a7cb662ea025b4f897c0d0fcd6e8b7)  
+先是上来就满口喷粪，然后删除掉自己喷粪的评论说我侮辱他要起诉我，我好怕啊  
+
 ## 如何使用
 得益于本颠覆性框架作者对于新手的照顾，特地上传了`vendor`目录  
 你可以点击右上角的 `Clone or download` -> `Download ZIP` 下载并解压，开箱即用  
